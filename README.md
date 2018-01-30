@@ -26,7 +26,7 @@ console.log(x);
 
 ## More help?
 
-[a link](https://www.npmjs.com/package/basicxss/tutorial)
+[tutorial](https://www.npmjs.com/package/basicxss/tutorial)
 
 # License
 
