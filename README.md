@@ -24,6 +24,6 @@ console.log(x);
 ###### Output
 `hello%2520world`
 
-#License#
+# License
 
 MIT License
