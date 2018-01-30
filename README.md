@@ -24,6 +24,10 @@ console.log(x);
 ###### Output
 `hello%2520world`
 
+## More help?
+
+[a link](https://www.npmjs.com/package/basicxss/tutorial)
+
 # License
 
 MIT License
