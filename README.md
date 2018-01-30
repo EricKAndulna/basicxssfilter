@@ -1,4 +1,4 @@
-# basicxssfilter
+# basicxss
 This is a basic xss filter for node.js and its all mvc framwork
 Its too easy to use and its light weight package
 Installing basicxss
